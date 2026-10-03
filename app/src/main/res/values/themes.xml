@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.PluralSingular" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryVariant">#303F9F</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#009688</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+    </style>
+</resources>

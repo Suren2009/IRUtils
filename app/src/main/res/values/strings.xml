@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Plural Singular</string>
+    <string name="title">Singular / Plural tokens</string>
+    <string name="subtitle">Type an English word or phrase, e.g. Train, Trains, Training.</string>
+    <string name="query_hint">Enter query</string>
+    <string name="convert">Convert</string>
+    <string name="empty_result">Results appear here as you type.</string>
+    <string name="tokens_label">Tokens: %1$s</string>
+    <string name="row_format">%1$s\n  Singular: %2$s\n  Plural:   %3$s%4$s</string>
+    <string name="uncountable_suffix">\n  (uncountable, same form)</string>
+</resources>
